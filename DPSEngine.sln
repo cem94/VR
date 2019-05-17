@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DPSEngine", "DPSEngine\DPSEngine.vcxproj", "{518B2D72-576F-4CA9-B4F8-CF5DF443109B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VRClient", "VRClient\VRClient.vcxproj", "{DAA92EE7-0EF6-45AC-BFE1-67F85174167E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518B2D72-576F-4CA9-B4F8-CF5DF443109B}.Debug|x64.ActiveCfg = Debug|x64
+		{518B2D72-576F-4CA9-B4F8-CF5DF443109B}.Debug|x64.Build.0 = Debug|x64
+		{518B2D72-576F-4CA9-B4F8-CF5DF443109B}.Release|x64.ActiveCfg = Release|x64
+		{518B2D72-576F-4CA9-B4F8-CF5DF443109B}.Release|x64.Build.0 = Release|x64
+		{DAA92EE7-0EF6-45AC-BFE1-67F85174167E}.Debug|x64.ActiveCfg = Debug|x64
+		{DAA92EE7-0EF6-45AC-BFE1-67F85174167E}.Debug|x64.Build.0 = Debug|x64
+		{DAA92EE7-0EF6-45AC-BFE1-67F85174167E}.Release|x64.ActiveCfg = Release|x64
+		{DAA92EE7-0EF6-45AC-BFE1-67F85174167E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C4B706-C31E-4CF0-99CF-1BCCA13A20EB}
+	EndGlobalSection
+EndGlobal
