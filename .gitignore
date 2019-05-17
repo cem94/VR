@@ -1,0 +1,9 @@
+.vs/
+.idea/
+bin/
+DPSEngine/Debug
+DPSEngine/obj
+DPSEngine/Release
+VREngine/Debug
+VREngine/obj
+VREngine/Release
