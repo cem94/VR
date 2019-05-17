@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\school\supsi\terza\grafica\project\vrengine\vrclient\main.cpp(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  VRClient.vcxproj -> D:\School\Supsi\Terza\Grafica\project\VrEngine\VRClient\..\bin\Debug\VRClient.exe
+  ..\dependencies\LeapSDK\lib\x64\Leap.dll
+  1 File(s) copied
